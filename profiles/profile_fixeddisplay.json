@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Haisl",
+        "display": {
+            "type": 2,
+            "data": 4,
+            "clk": 15,
+            "reset": 16
+        }
+    }
+]

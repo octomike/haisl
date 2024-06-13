@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Haisl",
+        "display": {
+            "type": 2,
+            "data": 21,
+            "clk": 22
+        },
+        "cmt": {
+            "clk": 19,
+            "sdio": 18,
+            "cs": 16,
+            "fcs": 23,
+            "gpio2": -1,
+            "gpio3": -1
+        }
+
+    }
+]
